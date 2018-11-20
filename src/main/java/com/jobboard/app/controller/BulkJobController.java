@@ -1,4 +1,4 @@
-package com.jobboard.app.controller;
+/*package com.jobboard.app.controller;
 
 import com.jobboard.app.service.JobService;
 import com.jobboard.app.service.JobServiceProducer;
@@ -22,3 +22,4 @@ public class BulkJobController {
         this.jobServiceProducer.importJobsFromExcel(multipartFile);
     }
 }
+*/
